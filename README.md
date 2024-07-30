@@ -16,7 +16,6 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=filipenava&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&show_icons=true&theme=github_dark_dimmed&locale=en&layout=donut)
 
 
-
 ## 📫 Contato
 
 - **Email:** filipe.nava@unesp.br
