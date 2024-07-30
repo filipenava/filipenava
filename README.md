@@ -8,7 +8,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 - **Frameworks e Bibliotecas:** Vue.js, Nuxt.js, React, Node.js, Express
 - **Banco de Dados:** Firebase, Firestore, MySQL, MongoDB
 - **Ferramentas e Plataformas:** Git, Docker
-- **Outros:** Desenvolvimento Ágil, Testes Automatizados, CI/CD
+- **Outros:** Desenvolvimento Ágil, Testes Automatizados
 
 ## 💼 Projetos
 
