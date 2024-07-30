@@ -13,7 +13,8 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filipenava&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=filipenava&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&show_icons=true&theme=github_dark_dimmed&locale=en&layout=donut)
+
 
 
 ## 📫 Contato
