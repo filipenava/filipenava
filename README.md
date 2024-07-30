@@ -10,6 +10,14 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 - **Ferramentas e Plataformas:** Git, Docker
 - **Outros:** Desenvolvimento Ágil, Testes Automatizados, CI/CD
 
+## 💼 Projetos
+
+### [Trabalho Prático 2 POO2](https://github.com/filipenava/Trabalho-Pr-tico-2---POO2)
+Este projeto é uma aplicação Vue.js desenvolvida para o Trabalho Prático 2 da disciplina de Programação Orientada a Objetos II. O sistema gerencia vendas de jogos eletrônicos, permitindo o cadastro de jogos, desenvolvedoras, clientes, gerentes e o controle de vendas tanto de mídias físicas quanto digitais.
+
+### [Projeto de Segurança da Informação](https://github.com/filipenava/Trabalho-P2)
+Este sistema implementa uma entidade certificadora (CA) para gerenciar chaves RSA de usuários, usando Diffie-Hellman para troca de chaves e SHA-256 para gerar chaves simétricas. A comunicação segura entre cliente e servidor é feita via sockets.
+
 
 ## 📈 Estatísticas do GitHub
 
