@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Filipe Nava!
 
-![Banner](https://via.placeholder.com/1200x300) <!-- Substitua pela URL da sua imagem de banner -->
-
 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios.
 
 ## 🛠️ Habilidades
