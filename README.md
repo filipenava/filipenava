@@ -5,9 +5,9 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 ## 🛠️ Habilidades
 
 - **Linguagens de Programação:** JavaScript, TypeScript, Python, Java, C#
-- **Frameworks e Bibliotecas:** Vue.js, Nuxt.js, React, Node.js, Express
+- **Frameworks e Bibliotecas:** Vue.js, Nuxt.js, React, Node.js, Express, Bokeh
 - **Banco de Dados:** Firebase, Firestore, MySQL, MongoDB
-- **Ferramentas e Plataformas:** Git, Docker
+- **Ferramentas e Plataformas:** Git, Docker, Google Functions 
 - **Outros:** Desenvolvimento Ágil, Testes Automatizados
 
 ## 💼 Projetos
