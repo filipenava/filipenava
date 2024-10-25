@@ -27,7 +27,7 @@ Este sistema implementa uma entidade certificadora (CA) para gerenciar chaves RS
 ## 📫 Contato
 
 - **Email:** filipe.nava@unesp.br
-- **LinkedIn:** [Filipe Nava](https://www.linkedin.com/in/filipenava)
+- **LinkedIn:** [Filipe Nava](https://www.linkedin.com/in/filipe-nava)
 - **Instagram:** [@filipenava](https://instagram.com/filipenava)
 
 ---
